@@ -1,3 +1,8 @@
 body{
-    background-color: rgb(178, 30, 201);
+    background-color: rgb(56, 56, 56);
+}
+h1{
+    color: rgb(101, 24, 177);
+    
+    width: 100px;
 }
