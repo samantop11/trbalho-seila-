@@ -1,12 +1,16 @@
 body{
-	background:url(download.jfif) repeat;
-color: aquamarine
-}
+	background-image: url("https://wallpapers.com/images/hd/first-person-view-of-fnaf-nightmare-a3bhopdvryqjqpr3.webp");
+	background-size: cover;      
+	background-repeat: no-repeat; 
+	background-position: center;  
+	height: 100vh;               
+	margin: 0;  
 #mural textarea {
 	padding: 5px;
 	height: 90px;
 	width: 140px;
 	border: 1px solid #666666;
+	color: rgb(255, 255, 255);
 }
 * {
 label { display: block; margin-top: 10px; }
@@ -16,7 +20,7 @@ label { display: block; margin-top: 10px; }
 	float: left;
 	width: 480px;
 	margin-bottom: 10px;
-	background:#75952a;
+	background:#4c3b1500;
 	padding:10px;
 margin:0 auto;
 
