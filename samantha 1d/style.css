@@ -1,26 +1,32 @@
 body{
-	background-image: url("https://wallpapers.com/images/hd/first-person-view-of-fnaf-nightmare-a3bhopdvryqjqpr3.webp");
-	background-size: cover;      
-	background-repeat: no-repeat; 
-	background-position: center;  
+	background-image: url("https://t4.ftcdn.net/jpg/02/10/45/95/360_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg");
+	background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-height: 100vh;
+ color: rgb(101, 18, 156);
 	height: 100vh;               
 	margin: 0;  
 #mural textarea {
 	padding: 5px;
 	height: 90px;
 	width: 140px;
-	border: 1px solid #666666;
-	color: rgb(255, 255, 255);
+	border: 1px solid #1500ff;
+	
+}
 }
 * {
 label { display: block; margin-top: 10px; }
 }
 #formulario_mural {
+	background-image: url("https://img.freepik.com/free-vector/watercolor-stains-abstract-background_23-2149107180.jpg?semt=ais_hybrid&w=740&q=80");
+
 	text-align: center;
 	float: left;
 	width: 480px;
 	margin-bottom: 10px;
-	background:#4c3b1500;
+	border: 2px solid #1b155d;
 	padding:10px;
 margin:0 auto;
 

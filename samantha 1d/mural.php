@@ -15,7 +15,7 @@ if(isset($_POST['cadastra'])){
 <html lang="pt-br">
 <head>
 <meta charset="utf-8"/>
-<title>Mural de pedidos</title>
+<title>Mural de pedidos ꉂ(˵˃ ᗜ ˂˵)</title>
 <link rel="stylesheet" href="style.css"/>
 <script src="scripts/jquery.js"></script>
 <script src="scripts/jquery.validate.js"></script>
